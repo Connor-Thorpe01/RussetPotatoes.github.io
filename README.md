@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/RussetPotatoes/RussetPotat
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Welcome!
-This is my GitHub Page for *CS-HU250*
+This is my GitHub Page for *CS-HU250*.
+
 This A link to my [GitHub profile](https://github.com/RussetPotatoes).
 
 ### Support or Contact
