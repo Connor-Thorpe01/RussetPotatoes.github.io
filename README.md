@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Welcome!
 This is my GitHub Page for *CS-HU250*
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RussetPotatoes/RussetPotatoes.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This A link to my [GitHub profile](https://github.com/RussetPotatoes).
 
 ### Support or Contact
 
